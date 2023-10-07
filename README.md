@@ -1,0 +1,2 @@
+# CNN-GIST-Photo-Classification
+This project involves developing and optimizing machine learning models, with a specific focus on model selection, hyperparameter tuning, and feature selection to enhance predictive performance. Various technologies and methodologies like SVC classifier, T-SNE, PCA, data imputation, and scaling were employed to achieve commendable model performance. The project received notable praise for its methodological approach and clean implementation.
